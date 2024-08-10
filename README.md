@@ -90,4 +90,4 @@
 
 ---
 
-> **联系方式**：如果您有任何问题或建议，欢迎通过邮箱 [songjinglei@cug.edu.cn](mailto:songjinglei@cug.edu.cn) 联系我。也欢迎访问我的 [GitHub 个人资料](https://github.com/<RaySong513>) 与我联系。
+> **联系方式**：如果您有任何问题或建议，欢迎通过邮箱 [songjinglei@cug.edu.cn](mailto:songjinglei@cug.edu.cn) 联系我。也欢迎访问我的 [GitHub 个人资料](https://github.com/<Ray_Shimmer>) 与我联系。
